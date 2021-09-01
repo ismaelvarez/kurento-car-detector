@@ -1,0 +1,10 @@
+7bb47b581b2b399cbce3a0368d7bb467  usr/include/kurento/modules/cardetector/CarDetector.hpp
+7ea566a6884815cea01a3df019e06794  usr/include/kurento/modules/cardetector/CarDetectorImpl.hpp
+d0eef0d2dedefe522cbde4990d7c950d  usr/include/kurento/modules/cardetector/CarDetectorImplFactory.hpp
+105d11673f8ddff219b02d735c2b44ea  usr/include/kurento/modules/cardetector/CarDetectorOpenCVImpl.hpp
+cc81ed9d398bc3e164519e0f0c485f07  usr/include/kurento/modules/cardetector/CarsDetected.hpp
+4f9ac3f6dad0adb56c168aca8f8ae2c9  usr/lib/x86_64-linux-gnu/pkgconfig/kmscardetector.pc
+f3da269665df5cfea402cd9658972f0f  usr/share/cmake-3.10/Modules/FindKMSCARDETECTOR.cmake
+c222330e453a8620a03d4c8cdecec2c5  usr/share/doc/car-detector-dev/changelog.gz
+d41d8cd98f00b204e9800998ecf8427e  usr/share/doc/car-detector-dev/copyright
+e47e720aa6eff692def5449520d1801d  usr/share/kurento/modules/cardetector.kmd.json

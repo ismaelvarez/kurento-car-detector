@@ -1,0 +1,12 @@
+Package: car-detector-dev
+Source: car-detector
+Version: 0.0.1~rc1
+Architecture: amd64
+Maintainer: Maintainer Name <maintainer.name@example.com>
+Installed-Size: 42
+Depends: car-detector (= 0.0.1~rc1), kms-core-dev, kms-elements-dev, kms-filters-dev, libopencv-dev
+Section: libdevel
+Priority: optional
+Homepage: https://www.example.com
+Description: Single line synopsis
+ Extended description over several lines - Development files.

@@ -1,0 +1,4 @@
+car-detector-dbgsym_0.0.1~rc1_amd64.ddeb debug optional
+car-detector-dev_0.0.1~rc1_amd64.deb libdevel optional
+car-detector_0.0.1~rc1_amd64.buildinfo - optional
+car-detector_0.0.1~rc1_amd64.deb libs optional
