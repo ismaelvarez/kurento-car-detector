@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+906f0fe35563b61521eff1ea8c87d813 src/server/cardetector.kmd.json
+2808f8139d1bf5af5672425ece28d75c src/server/cpp_interface.generated
+d0791b43f33cfb83798fb746f3664633 src/server/cpp_interface_internal.generated
+9b20beaf6559aa4f6eed53637a706fba src/server/cpp_module.generated
+8b249598a5528f3e10fd1bef748da080 src/server/cpp_server_internal.generated

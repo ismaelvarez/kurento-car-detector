@@ -1,0 +1,13 @@
+Package: car-detector-dbgsym
+Package-Type: ddeb
+Source: car-detector
+Version: 0.0.1~rc1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Maintainer Name <maintainer.name@example.com>
+Installed-Size: 1075
+Depends: car-detector (= 0.0.1~rc1)
+Section: debug
+Priority: optional
+Description: debug symbols for car-detector
+Build-Ids: 1daf3ddbb8244865d283d0670d6316891772b676 3c6b0b6e7d077c498cac36d7330874cd2471b8ac

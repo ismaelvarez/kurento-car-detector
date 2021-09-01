@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkmscardetectorinterface.a  CMakeFiles/kmscardetectorinterface.dir/interface/generated-cpp/CarDetectorInternal.cpp.o CMakeFiles/kmscardetectorinterface.dir/interface/generated-cpp/CarDetector.cpp.o CMakeFiles/kmscardetectorinterface.dir/interface/generated-cpp/CarsDetected.cpp.o
+/usr/bin/ranlib libkmscardetectorinterface.a

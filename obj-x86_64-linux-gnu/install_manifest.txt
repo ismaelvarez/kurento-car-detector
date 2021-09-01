@@ -1,0 +1,13 @@
+/usr/lib/x86_64-linux-gnu/libkmscardetectorinterface.a
+/usr/include/kurento/modules/cardetector/CarDetector.hpp
+/usr/include/kurento/modules/cardetector/CarsDetected.hpp
+/usr/lib/x86_64-linux-gnu/pkgconfig/kmscardetector.pc
+/usr/lib/x86_64-linux-gnu/libkmscardetectorimpl.so.0.0.1~0.g40e9b69
+/usr/lib/x86_64-linux-gnu/libkmscardetectorimpl.so.0
+/usr/lib/x86_64-linux-gnu/libkmscardetectorimpl.so
+/usr/include/kurento/modules/cardetector/CarDetectorImpl.hpp
+/usr/include/kurento/modules/cardetector/CarDetectorOpenCVImpl.hpp
+/usr/include/kurento/modules/cardetector/CarDetectorImplFactory.hpp
+/usr/lib/x86_64-linux-gnu/kurento/modules/libkmscardetectormodule.so
+/usr/share/cmake-3.10/Modules/FindKMSCARDETECTOR.cmake
+/usr/share/kurento/modules/cardetector.kmd.json

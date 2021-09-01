@@ -1,0 +1,9 @@
+debian/tmp/usr/include/kurento/modules/cardetector/CarDetector.hpp
+debian/tmp/usr/include/kurento/modules/cardetector/CarDetectorImpl.hpp
+debian/tmp/usr/include/kurento/modules/cardetector/CarDetectorImplFactory.hpp
+debian/tmp/usr/include/kurento/modules/cardetector/CarDetectorOpenCVImpl.hpp
+debian/tmp/usr/include/kurento/modules/cardetector/CarsDetected.hpp
+debian/tmp/usr/lib/x86_64-linux-gnu/libkmscardetectorimpl.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/kmscardetector.pc
+debian/tmp/usr/share/kurento/modules/cardetector.kmd.json
+debian/tmp/usr/share/cmake-3.10/Modules/FindKMSCARDETECTOR.cmake
