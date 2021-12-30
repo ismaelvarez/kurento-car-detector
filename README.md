@@ -7,9 +7,9 @@ cmake ..
 make
 ```
 
-Deb Package
-Root folder
+Compile and build
 ```linux
+cd ..
 dpkg-buildpackage -us -uc
 ```
 
